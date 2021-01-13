@@ -1,5 +1,10 @@
 # Shoe-Shopping
 
+Group:- 
+Inderpreet Singh
+Jaskaran Singh
+Satnam Singh
+
 It is a E-commerce Application which build in Java technology with Realtime firebase database,
 in this project user can register in the application then loign to access further in the application. 
 the new products in the inventory, change the discount on specific User can search the shoe article use 
